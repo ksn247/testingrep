@@ -9,6 +9,3 @@ phases:
     commands:
        - echo Build completed
        - mvn package
-  artifacts:
-    files:
-      - '**/*'
